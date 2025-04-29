@@ -1,19 +1,19 @@
 <h1 align="center">Hi there, I'm Bilal Khan! 👋</h1>
-<h3 align="center">💻 MERN Stack Developer | Cybersecurity Enthusiast | Lifelong Learner</h3>
+<h3 align="center">💻 Flutter Developer | Computer Expert | Lifelong Learner</h3>
 
 <p align="center">
   <a href="https://next-personal-portfolio-psi.vercel.app/" target="_blank">🌐 Portfolio</a> •
-  <a href="mailto:arifrahman1k7@gmail.com">📧 Email Me</a> •
+  <a href="mailto:bilal08khann@gmail.com">📧 Email Me</a> •
   <a href="https://www.linkedin.com/in/arif-rahman-84b1a2262" target="_blank">💼 LinkedIn</a>
 </p>
 
 ---
 
 ### 👨‍💻 **About Me**
-- 🔭 **Currently working on:** MERN Stack projects and exploring cybersecurity.  
-- 🌱 **Learning:** Django for backend and expanding my knowledge.  
-- 👯 **Open to Collaborate:** On MERN Stack and Flask projects.  
-- 💬 **Ask Me About:** MERN Stack, web development, or TryHackMe challenges.  
+- 🔭 **Currently working on:** Flutter projects and exploring cybersecurity.  
+- 🌱 **Learning:** Firebase for backend and expanding my knowledge.  
+- 👯 **Open to Collaborate:** On Flutter Projects.  
+- 💬 **Ask Me About:** Flutter, App development, .  
 
 ---
 
